@@ -371,6 +371,10 @@ https://glitch.com/~few-quintessential-horesradish
 اذا لم تسجل دخول ، سجل دخولك لمنصة glitch ، كي تنسخ هذا التطبيق و تستخدمه فقط اضغط على زر "Remix Your Own" 
 و ستقوم المنصة تلقائيا بنسخ المشروع و اضافته الى حسابك و إنشاء عنوان انترنت جديد له ، سيستغرق ذلك بضع دقائق
 
+<!-- Remix Button -->
+<a href="https://glitch.com/edit/?utm_content=project_few-quintessential-horesradish&utm_source=remix_this&utm_medium=button&utm_campaign=glitchButton#!/remix/few-quintessential-horesradish">
+  <img src="https://cdn.glitch.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Fremix%402x.png?1513093958726" alt="remix this" height="33">
+</a>
 
 [<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.24.59%20PM.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.24.59%20PM.png)
 
@@ -445,11 +449,23 @@ What's the distance between Beirut and Amman
 
 ### اضافات اختيارية للروبوت 
 بامكانك تطوير هذا الروبوت باستخدامه للتواصل مع عملائك على تويتر ، تليجرام او اي منصة اخرى
-كما تتمتع روبوتات wit.ai بخاصية الاستجابة الازامرالصوتية ، بدلا من كتابة الرسائل النصية.
+كما تتمتع روبوتات wit.ai بخاصية الاستجابة للاوامرالصوتية ، بدلا من كتابة الرسائل النصية.
+
+كما اسلفنا سابقا فأن wit.ai تدعم اكثر من ١٣٠ لغة ، قد تود تجربة اعداد تطبيقك للتجاوب للأسئلة المكتوبة او المنطوقة باللغة العربية
+
+[<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-20%20at%207.39.30%20PM.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-20%20at%207.39.30%20PM.png)
+
+[<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-20%20at%207.49.49%20PM.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-20%20at%207.49.49%20PM.png)
+
+[<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-20%20at%207.52.45%20PM.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-20%20at%207.52.45%20PM.png)
+
+[<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-20%20at%208.04.03%20PM.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-20%20at%208.04.03%20PM.png)
+
 
 ***
 
 تطبيق glitch اعلاه مقتبس من نموذج ل 
 Arnold Scott, Partner Engineer at Facebook 
+https://glitch.com/~dapper-hungry-grapple
 
 </div>
