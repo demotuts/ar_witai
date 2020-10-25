@@ -176,13 +176,15 @@ https://developers.facebook.com/apps/
 بالعودة الى "Dashboard"
 هناك الكثير من المنتجات المرتبطة بفيسبوك ، لكن لتطبيقنا هذه سنختار Messenger
 
-هذا من ضمن ال منطقة (B) في الرسم التوضيحي لتطبيقات فيسبوك اعلاه
+هذا من ضمن ال منطقة (B) في 
+  [الرسم التوضيحي](#3-%D8%AA%D9%87%D9%8A%D8%A6%D8%A9-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%B9%D9%84%D9%89-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D9%84%D9%84%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%A7%D9%84-messenger-1) اعلاه
 
 [<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2011.58.49%20AM.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2011.58.49%20AM.png)
 
 العملاء سيتواصلون معنا عبر الصفحة التي أنشأناها اعلاه ، عبر خدة الماسنجر ، لذلك نحتاج ان نربط تطبيقنا بتلك الصفحة
 
-هذا من ضمن ال منطقة (C) في الرسم التوضيحي لتطبيقات فيسبوك اعلاه
+هذا من ضمن ال منطقة (C) في 
+  [الرسم التوضيحي](#3-%D8%AA%D9%87%D9%8A%D8%A6%D8%A9-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%B9%D9%84%D9%89-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D9%84%D9%84%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%A7%D9%84-messenger-1) اعلاه
 
 [<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.01.57%20PM.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.01.57%20PM.png)
 
@@ -195,7 +197,8 @@ https://developers.facebook.com/apps/
 لأجل إستخدام هذا التطبيق للرد على محادثات العملاء ، نحتاج لإنشاء رمز Token 
 و ذلك بالضغط على "Genrate Token"
 
-هذا من ضمن ال منطقة (C) i) في الرسم التوضيحي لتطبيقات فيسبوك اعلاه
+هذا من ضمن ال منطقة (C) i)
+  [الرسم التوضيحي](#3-%D8%AA%D9%87%D9%8A%D8%A6%D8%A9-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%B9%D9%84%D9%89-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D9%84%D9%84%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%A7%D9%84-messenger-1) اعلاه
 
 [<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.05.25%20PM.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.05.25%20PM.png)
 
@@ -404,10 +407,12 @@ https://glitch.com/~few-quintessential-horesradish
 اختار "Live App" هذا كان عنوان تطبيقك الذي تريد ربطه مع فيسبوك
  نتجه الان الى فيسبوك و الى اعدادات تطبيقنا هناك و تحت عنوان Messenger و تحت settings
 و نختار اضافة webhook
+
 "Add Callback URL"
 
-هذا من ضمن ال منطقة (C) ii) في الرسم التوضيحي لتطبيقات فيسبوك اعلاه
-
+هذا من ضمن ال منطقة (C) ii) في 
+  [الرسم التوضيحي](#3-%D8%AA%D9%87%D9%8A%D8%A6%D8%A9-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%B9%D9%84%D9%89-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D9%84%D9%84%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%A7%D9%84-messenger-1) اعلاه
+  
 [<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.46.07%20PM.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.46.07%20PM.png)
 
 [<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.46.49%20PM.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.46.49%20PM.png)
@@ -423,6 +428,9 @@ https://glitch.com/~few-quintessential-horesradish
 
 نحتاج ان تصريح `pessages` و `pessaging_postbacks`
 
+هذا من ضمن ال منطقة (C) ii) في 
+  [الرسم التوضيحي](#3-%D8%AA%D9%87%D9%8A%D8%A6%D8%A9-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%B9%D9%84%D9%89-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D9%84%D9%84%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%A7%D9%84-messenger-1) 
+  
 [<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.47.30%20PM.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.47.30%20PM.png)
 
 
