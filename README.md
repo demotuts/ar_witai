@@ -158,6 +158,7 @@ https://developers.facebook.com/apps/
 و أختار الاختيار الأول "Manage Business Integrations"
 
 هذا من ضمن ال منطقة (A) في الرسم التوضيحي لتطبيقات فيسبوك اعلاه
+
 [<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2011.55.45%20AM.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2011.55.45%20AM.png)
 
 أختار اسم للتطبيقك على فيسبوك ، غرض التطبيق هو الوصول الى المعلومات الخاصة  بك ، أي "App Purpose" "Yourself or your own business"
@@ -413,7 +414,9 @@ https://glitch.com/~few-quintessential-horesradish
 نلصق العنوان الذي نسخناه من تطبيق glitch.com و نلصقه هنا , لكن نضيف كلمة "/webhook" الى نهاية العنوان، كي يبدوا كما هو في الصورة ، لكن تذكر ان عنوان تطبيق glitch الخاص بك  سيكون مختلفا عن العنوان اعلاه ، تذكر ان تستخدم عناوانك الذي نسخته من glitch
  في المساحة السفلى ادخل كلمة `verifytoken` و هي كلمة اخترناها عشوائيا ، لكن يجب ان تطابق ما سنضيفه لاحقا في ملف الاعدادات في تطبيق glitch
 
-بعد ادخال ال "Webhook" و ال "Verify Token" بأمكانك الان تحديد متى سينبهك تطبيقك على فيسبوك حين يرسل العميل رسالة او يتواصل بأي صورة، هذه خطوة مهمة للغاية
+بعد اضافة ال "Webhook"
+و ال "Verify Token" بأمكانك الان تحديد متى سينبهك تطبيقك على فيسبوك حين يرسل العميل رسالة او يتواصل بأي صورة، هذه خطوة مهمة للغاية
+
 نحتاج ان تصريح `pessages` و `pessaging_postbacks`
 
 [<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.47.30%20PM.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.47.30%20PM.png)
