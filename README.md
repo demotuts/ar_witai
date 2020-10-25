@@ -157,7 +157,11 @@ https://developers.facebook.com/apps/
 و اضغط على "Create App"
 و أختار الاختيار الأول "Manage Business Integrations"
 
-هذا من ضمن ال منطقة (A) في الرسم التوضيحي لتطبيقات فيسبوك اعلاه
+ في الرسم التوضيحي لتطبيقات فيسبوك اعلاه
+
+هذا من ضمن ال منطقة (A) في 
+  [الرسم التوضيحي](#3-creating-a-facebook-app-that-uses-messenger-1) اعلاه 
+
 
 [<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2011.55.45%20AM.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2011.55.45%20AM.png)
 
