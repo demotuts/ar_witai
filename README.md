@@ -157,6 +157,7 @@ https://developers.facebook.com/apps/
 و اضغط على "Create App"
 و أختار الاختيار الأول "Manage Business Integrations"
 
+هذا من ضمن ال منطقة (A) في الرسم التوضيحي لتطبيقات فيسبوك اعلاه
 [<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2011.55.45%20AM.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2011.55.45%20AM.png)
 
 أختار اسم للتطبيقك على فيسبوك ، غرض التطبيق هو الوصول الى المعلومات الخاصة  بك ، أي "App Purpose" "Yourself or your own business"
@@ -170,9 +171,13 @@ https://developers.facebook.com/apps/
 بالعودة الى "Dashboard"
 هناك الكثير من المنتجات المرتبطة بفيسبوك ، لكن لتطبيقنا هذه سنختار Messenger
 
+هذا من ضمن ال منطقة (B) في الرسم التوضيحي لتطبيقات فيسبوك اعلاه
+
 [<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2011.58.49%20AM.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2011.58.49%20AM.png)
 
 العملاء سيتواصلون معنا عبر الصفحة التي أنشأناها اعلاه ، عبر خدة الماسنجر ، لذلك نحتاج ان نربط تطبيقنا بتلك الصفحة
+
+هذا من ضمن ال منطقة (C) في الرسم التوضيحي لتطبيقات فيسبوك اعلاه
 
 [<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.01.57%20PM.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.01.57%20PM.png)
 
@@ -184,6 +189,8 @@ https://developers.facebook.com/apps/
 
 لأجل إستخدام هذا التطبيق للرد على محادثات العملاء ، نحتاج لإنشاء رمز Token 
 و ذلك بالضغط على "Genrate Token"
+
+هذا من ضمن ال منطقة (C) i) في الرسم التوضيحي لتطبيقات فيسبوك اعلاه
 
 [<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.05.25%20PM.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.05.25%20PM.png)
 
@@ -386,6 +393,7 @@ https://glitch.com/~few-quintessential-horesradish
 
 اضغط على Share بالجهة اليسرى من الصفحة
 تأكد انك اخترت "Live App" ثم انسخ العنوان بالضغط على copy
+
 [<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.45.33%20PM%20copy.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.45.33%20PM%20copy.png)
 
 اختار "Live App" هذا كان عنوان تطبيقك الذي تريد ربطه مع فيسبوك
@@ -393,14 +401,23 @@ https://glitch.com/~few-quintessential-horesradish
 و نختار اضافة webhook
 "Add Callback URL"
 
+هذا من ضمن ال منطقة (C) ii) في الرسم التوضيحي لتطبيقات فيسبوك اعلاه
+
 [<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.46.07%20PM.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.46.07%20PM.png)
 
 [<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.46.49%20PM.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.46.49%20PM.png)
 
 [<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.48.41%20PM.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.48.41%20PM.png)
 
+
 نلصق العنوان الذي نسخناه من تطبيق glitch.com و نلصقه هنا , لكن نضيف كلمة "/webhook" الى نهاية العنوان، كي يبدوا كما هو في الصورة ، لكن تذكر ان عنوان تطبيق glitch الخاص بك  سيكون مختلفا عن العنوان اعلاه ، تذكر ان تستخدم عناوانك الذي نسخته من glitch
  في المساحة السفلى ادخل كلمة `verifytoken` و هي كلمة اخترناها عشوائيا ، لكن يجب ان تطابق ما سنضيفه لاحقا في ملف الاعدادات في تطبيق glitch
+
+بعد ادخال ال "Webhook" و ال "Verify Token" بأمكانك الان تحديد متى سينبهك تطبيقك على فيسبوك حين يرسل العميل رسالة او يتواصل بأي صورة، هذه خطوة مهمة للغاية
+نحتاج ان تصريح `pessages` و `pessaging_postbacks`
+
+[<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.47.30%20PM.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.47.30%20PM.png)
+
 
 الان فيسبوك Messanger  يعرف الى اين يمرر الأسئلة الواردة
 
