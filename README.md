@@ -447,7 +447,11 @@ https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.4
 بعد نسخ التطبيق ستحتاج الى تخصصه ليعمل مع العناصر الاخرى التي جهزتها سابقا ، فقط سنضيف اليه :
 *  كلمة سرية لتأكيد الرمز `FB_VERIFY_TOKEN` ، يمكن ان تكون اي جملة ، لكننا في الخطوة السابقة اخترنا في تطبيق فيسبوك ان تكون `verifytoken`
 *  `WIT_TOKEN` الرمز من wit.ai ، نحصل عليها من صفحة settings من wit.ai
-* صورة شاشة
+
+[<img src="
+https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-20%20at%209.23.21%20PM.png" width="60%"/>](
+https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-20%20at%209.23.21%20PM.png)
+
 *  `FB_APP_SECRET` الرمز السري لتطبيق فيسبوك الذي أنشأناه في الخطوة رقم ٣ 
 * صور للشاشة تظهر جميع الخطوات
 *  `FB_PAGE_TOKEN` الرمز السري لصفحة facebook المرتبطة بالتطبيق الذ أنشأناف في الخطوة رقم ٣
