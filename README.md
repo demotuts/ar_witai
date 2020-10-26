@@ -400,11 +400,10 @@ https://glitch.com/~few-quintessential-horesradish
 [<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.34.15%20PM.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.34.15%20PM.png)
 
 اضغط على Share بالجهة اليسرى من الصفحة
-تأكد انك اخترت "Live App" ثم انسخ العنوان بالضغط على copy
 
 [<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.45.33%20PM%20copy.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.45.33%20PM%20copy.png)
 
-اختار "Live App" هذا كان عنوان تطبيقك الذي تريد ربطه مع فيسبوك
+اختار "Live App" هذا هو عنوان تطبيقك الذي تريد ربطه مع فيسبوك
  نتجه الان الى فيسبوك و الى اعدادات تطبيقنا هناك و تحت عنوان Messenger و تحت settings
 و نختار اضافة webhook
 
