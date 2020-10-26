@@ -403,7 +403,8 @@ https://glitch.com/~few-quintessential-horesradish
 
 [<img src="https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.45.33%20PM%20copy.png" width="60%"/>](https://storage.googleapis.com/assets2020/Screen%20Shot%202020-10-21%20at%2012.45.33%20PM%20copy.png)
 
-اختار "Live App" هذا هو عنوان تطبيقك الذي تريد ربطه مع فيسبوك
+اختار "Live App" هذا هو عنوان تطبيقك، سننسخه لانه هو العنوان الذي سيمرر اليه الأسئلة الواردة من Messenger حيث بإمكاننا تمرير السؤال الى wit.ai كي نتلقى المخرجات التي تساعدنا في البحث عن الإجابات المناسبة
+
  نتجه الان الى فيسبوك و الى اعدادات تطبيقنا هناك و تحت عنوان Messenger و تحت settings
 و نختار اضافة webhook
 
